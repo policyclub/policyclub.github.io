@@ -3,19 +3,6 @@
 
 ---
 {% include header.html %}
-      <!-- Introduction -->
-					<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
-						<div class="content">
-							<h1>Policy Club</h1>
-							<p class="major">The Policy Club informs California lawmakers of smarter public policies that will move the needle on some of California’s most pressing challenges. We analyze data and leverage the latest technology to identify common-sense solutions to make meaningful public policy changes. </p>
-							<ul class="actions vertical">
-								<li><a href="#first" class="button big wide smooth-scroll-middle">Learn More</a></li>
-							</ul>
-						</div>
-						<div class="image">
-							<img src="images/hollywoodstreet.jpg" alt="" />
-						</div>
-					</section>
 
 				<!-- Why Data -->
 					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="first">
