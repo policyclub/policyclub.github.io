@@ -9,9 +9,11 @@
 						<div class="content">
 							<h2>About Us</h2>
 							<p>We are a group of professionals that love California and are united by a set of common values and beliefs:
-* Public policy should not be outsourced to lobbyists or special interests.
-* Technology can make a difference, but lines of code alone won’t solve problems. We take a holistic approach to challenges to tackle them from every angle.
-* Dissent and discussion allow democracy to thrive and we want to listen to every community and hear all sides of the debate.
+<ul>
+<li> Public policy should not be outsourced to lobbyists or special interests.</li>
+<li> Technology can make a difference, but lines of code alone won’t solve problems. We take a holistic approach to challenges to tackle them from every angle.</li>
+<li> Dissent and discussion allow democracy to thrive and we want to listen to every community and hear all sides of the debate. </li>
+</ul>
 </p>
 							<ul class="actions vertical">
 								<li><a href="#" class="button">Learn More</a></li>
@@ -30,19 +32,19 @@
 							<div class="items style1 medium onscroll-fade-in">
 								<section>
 									<span class="icon style2 major fa-home"></span>
-									<h3>Housing</h3>
+									[Some Link]({% post_url housing %})<h3>Housing</h3>
 									<p>We believe that housing is a human right and every Californian should be able to afford to live in their own neighborhood. We've analyzed the legislative housing package working its way through Sacramento.
 									</p>
 								</section>
 								<section>
 									<span class="icon style2 major  fa-subway"></span>
-									[Some Link]({% post_url immigration %})<h3>Transportation</h3>
+									[Some Link]({% post_url transportation %})<h3>Transportation</h3>
 									<p>How do we reduce congestion in LA county? How can data help inform our transportation policy?
 									</p>
 								</section>
 								<section>
 									<span class="icon style2 major  fa-users"></span>
-									<h3>Immigration</h3>
+									[Some Link]({% post_url immigration %})<h3>Immigration</h3>
 									<p>We have drafted a series of policy recommendations that would make Los Angeles the nation’s first “Digital Sanctuary City”, protecting the privacy and 4th amendment rights of both our documented and undocumented residents.
 									</p>
 								</section>
