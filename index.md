@@ -32,19 +32,19 @@
 							<div class="items style1 medium onscroll-fade-in">
 								<section>
 									<span class="icon style2 major fa-home"></span>
-									[Some Link]({% post_url housing %})<h3>Housing</h3>
+									<a href="https://policyclub.github.io/policyclub.io/housing"><h3>Housing</h3></a>
 									<p>We believe that housing is a human right and every Californian should be able to afford to live in their own neighborhood. We've analyzed the legislative housing package working its way through Sacramento.
 									</p>
 								</section>
 								<section>
-									<span class="icon style2 major  fa-subway"></span>
-									[Some Link]({% post_url transportation %})<h3>Transportation</h3>
+									<a href="https://policyclub.github.io/policyclub.io/transportation"><span class="icon style2 major  fa-subway"></span> </a>
+									<a href="https://policyclub.github.io/policyclub.io/transportation"> <h3>Transportation</h3></a>
 									<p>How do we reduce congestion in LA county? How can data help inform our transportation policy?
 									</p>
 								</section>
 								<section>
 									<span class="icon style2 major  fa-users"></span>
-									[Some Link]({% post_url immigration %})<h3>Immigration</h3>
+									<a href="https://policyclub.github.io/policyclub.io/immigration"><h3>Immigration</h3></a>
 									<p>We have drafted a series of policy recommendations that would make Los Angeles the nation’s first “Digital Sanctuary City”, protecting the privacy and 4th amendment rights of both our documented and undocumented residents.
 									</p>
 								</section>
