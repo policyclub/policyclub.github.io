@@ -1,20 +1,18 @@
 ---
 
-
+title: index
 ---
 {% include header.html %}
-
-				<!-- Why Data -->
 					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="first">
 						<div class="content">
 							<h2>About Us</h2>
 							<p>We are a group of professionals that love California and are united by a set of common values and beliefs:
-<ul>
-<li> Public policy should not be outsourced to lobbyists or special interests.</li>
-<li> Technology can make a difference, but lines of code alone won’t solve problems. We take a holistic approach to challenges to tackle them from every angle.</li>
-<li> Dissent and discussion allow democracy to thrive and we want to listen to every community and hear all sides of the debate. </li>
-</ul>
-</p>
+                <ul>
+                  <li> Public policy should not be outsourced to lobbyists or special interests.</li>
+                  <li> Technology can make a difference, but lines of code alone won’t solve problems. We take a holistic approach to challenges to tackle them from every angle.</li>
+                  <li> Dissent and discussion allow democracy to thrive and we want to listen to every community and hear all sides of the debate. </li>
+                </ul>
+            </p>
 							<ul class="actions vertical">
 								<li><a href="#" class="button">Learn More</a></li>
 							</ul>
@@ -24,7 +22,6 @@
 						</div>
 					</section>
 
-				<!-- Policy Positions -->
 					<section class="wrapper style1 align-center">
 						<div class="inner">
 							<h2>Policy Areas</h2>
@@ -32,19 +29,19 @@
 							<div class="items style1 medium onscroll-fade-in">
 								<section>
 									<span class="icon style2 major fa-home"></span>
-									<a href="https://policyclub.github.io/policyclub.io/housing"><h3>Housing</h3></a>
+                  <a href="{{ site.url }}/housing"><h3>Housing</h3></a>
 									<p>We believe that housing is a human right and every Californian should be able to afford to live in their own neighborhood. We've analyzed the legislative housing package working its way through Sacramento.
 									</p>
 								</section>
 								<section>
-									<a href="https://policyclub.github.io/policyclub.io/transportation"><span class="icon style2 major  fa-subway"></span> </a>
-									<a href="https://policyclub.github.io/policyclub.io/transportation"> <h3>Transportation</h3></a>
+                <a href="{{ site.url }}/transportation"><span class="icon style2 major  fa-subway"></span> </a>
+                <a href="{{ site.url }}/transportation"> <h3>Transportation</h3></a>
 									<p>How do we reduce congestion in LA county? How can data help inform our transportation policy?
 									</p>
 								</section>
 								<section>
 									<span class="icon style2 major  fa-users"></span>
-									<a href="https://policyclub.github.io/policyclub.io/immigration"><h3>Immigration</h3></a>
+                  <a href="{{ site.url }}/immigration"><h3>Immigration</h3></a>
 									<p>We have drafted a series of policy recommendations that would make Los Angeles the nation’s first “Digital Sanctuary City”, protecting the privacy and 4th amendment rights of both our documented and undocumented residents.
 									</p>
 								</section>
@@ -52,7 +49,6 @@
 						</div>
 					</section>
 
-				<!-- About the Club -->
 					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
 						<div class="content">
 							<h2>Join Us</h2>
@@ -66,7 +62,6 @@
 						</div>
 					</section>
 
-				<!-- Contact/NEED TO HOOK UP TO MAILCHIMP -->
 					<section class="wrapper style1 align-center">
 						<div class="inner medium">
 							<h2>Get in touch</h2>
