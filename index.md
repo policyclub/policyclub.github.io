@@ -75,7 +75,8 @@ title: index
 						</div>
 					</section>
 
-					<section class="wrapper style1 align-center">
+<!-- Contact Us Form -->
+<!-- 					<section class="wrapper style1 align-center">
 						<div class="inner medium">
 							<h2>Get in touch</h2>
 							<form method="post" action="#">
@@ -97,4 +98,4 @@ title: index
 							</form>
 
 						</div>
-          </section>
+          </section> -->
