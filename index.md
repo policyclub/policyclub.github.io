@@ -85,5 +85,3 @@ title: index
 
 						</div>
           </section>
-
-{% include footer.html %}
