@@ -20,15 +20,15 @@ title: index
 						<div class="content">
 							<h2>About Us</h2>
 							<p>We are a group of professionals that love California and are united by a set of common values and beliefs:
-                <ul>
-                  <li> Public policy should not be outsourced to lobbyists or special interests.</li>
-                  <li> Technology can make a difference, but lines of code alone won’t solve problems. We take a holistic approach to challenges to tackle them from every angle.</li>
-                  <li> Dissent and discussion allow democracy to thrive and we want to listen to every community and hear all sides of the debate. </li>
-                </ul>
-            </p>
-							<ul class="actions vertical">
+				                <ul>
+				                  <li> Public policy should not be outsourced to lobbyists or special interests.</li>
+				                  <li> Technology can make a difference, but lines of code alone won’t solve problems. We take a holistic approach to challenges to tackle them from every angle.</li>
+				                  <li> Dissent and discussion allow democracy to thrive and we want to listen to every community and hear all sides of the debate. </li>
+				                </ul>
+				            </p>
+<!-- 							<ul class="actions vertical">
 								<li><a href="#" class="button">Learn More</a></li>
-							</ul>
+							</ul> -->
 						</div>
 						<div class="image">
 							<img src="images/inlandempire.jpg" alt="" />
@@ -64,11 +64,12 @@ title: index
 
 					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
 						<div class="content">
-							<h2>Join Us</h2>
-							<p>The Policy Club is open to any Californian that wants to make a menaingful difference in the Golden State. Our members consist of folks who love data science, interaction design, development, communications and public policy. Use the form below to get in touch and get involved. </p>
-							<ul class="actions vertical">
+							<h2>Join the Conversation</h2>
+							<!-- <p>The Policy Club is open to any Californian that wants to make a menaingful difference in the Golden State. Our members consist of folks who love data science, interaction design, development, communications and public policy. Use the form below to get in touch and get involved. </p> -->
+							<p>Our members consist of folks who love data science, interaction design, development, communications and public policy. Find us on Twitter.</p>
+<!-- 							<ul class="actions vertical">
 								<li><a href="#" class="button">Learn More</a></li>
-							</ul>
+							</ul> -->
 						</div>
 						<div class="image">
 							<img src="images/Tower_Bridge_Sacramento_edit.jpg" alt="" />
