@@ -62,6 +62,19 @@ title: index
 						</div>
 					</section>
 
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="first">
+						<div class="content">
+							<h2>Recent Work: SB 827</h2>
+							<p>With the potential to be the most impactful housing legislation since 1978's Prop 13, here's our take on this proposed legislation.</p>
+						<ul class="actions vertical">
+								<li><a href="sb-827" class="button">Learn More</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/overviewofcity.jpg" alt="" />
+						</div>
+					</section>
+
 					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
 						<div class="content">
 							<h2>Join the Conversation</h2>
