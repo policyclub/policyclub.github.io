@@ -7,6 +7,10 @@ title: Housing
 
 California recently passed fifteen bills addressing the state’s housing crisis. This is a good first step toward improving access to housing for millions of Californians, but the housing crisis will not be solved in one legislative term. The Policy Club analyzed key parts of the housing package and produced estimates on what Californians can expect from these bills, as well as recommended additional steps to keep the momentum moving forward. 
 
+**AB-827**: **Planning and zoning: transit-rich housing bonus**
+
+With the potential to be the most impactful housing legislation since 1978's Prop 13, [here's our take on this proposed legislation](sb-827).
+
 **AB-1568**: **Enhanced Infrastructure Financing District**
 
 95% of parcels in Los Angeles County are eligible to become part of an Enhanced Infrastructure Financing District or EIFD. Should the entirety of the County vote to include all 2,274,361 eligible parcels in an EIFD, it would be possible to raise more than $6 trillion dollars over 20 years for the funding of affordable housing, but this situation is highly unlikely. We expect EIFDs in Los Angeles County to raise an estimated $134 million in FY 2018-19. It is uncertain how many EIFDs will be set up in the State of California, but we encourage local jurisdictions to explore this option as a means of securing a stable funding source for affordable housing production. Additionally, we encourage the state and advocacy organizations to publish toolkits and materials advocating for the creation of the EIFDs, along with potential boundaries, etc. An open dataset containing if each parcel is EIFD eligible for the entire state would go a long way towards meeting these goals. 
