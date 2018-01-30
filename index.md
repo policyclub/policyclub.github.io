@@ -71,7 +71,7 @@ title: index
 							</ul>
 						</div>
 						<div class="image">
-							<img src="images/overviewofcity.jpg" alt="" />
+							<img src="images/dingbat.jpg" alt="" />
 						</div>
 					</section>
 
