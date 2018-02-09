@@ -30,7 +30,7 @@ layout: page
         </p>
 	</div>
 	<div class="image">
-		<img src="images/inlandempire.jpg" alt="" />
+		<img src="images/inlandempirejpg.jpg" alt="" />
 	</div>
 </section>
 
