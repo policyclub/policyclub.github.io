@@ -3,9 +3,11 @@ layout: default
 ---
 <html>
 {% include head.html %}
-{% include header.html %}
   <body>
-	{{ content }}
+  	<div class="container-lg px-3 my-5 markdown-body">
+   	  {% include header.html %}
+   	  {{ content }}
+	</div>
   </body>
 {% include footer.html %}
 </html>
