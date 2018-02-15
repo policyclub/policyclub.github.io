@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: immigration 
+title: Immigration 
 
 ---
 Due to the current political climate at the federal level of government, municipal governments must take action to protect the personal data of their citizens. President Trump’s stated goal of deporting millions is to be achieved by moving Department of Homeland Security policy away from its policy of Priority Enforcement which focuses on deporting those convicted of crimes and re-establishing the Secure Communities program which allows for any person without valid immigration documentation to be subject to immediate deportation. This could change the way immigrants interact with their cities by causing them to avoid interacting with the state in any formal manner; avoiding school or work and preventing people from calling the police or fire department. This disruption in civic life should cause city agencies to take action to protect the data they hold regarding their residents. This policy could be the first of it’s kind in any government in the United States to enact the recommendations found in the Sunlight Foundation whitepaper, *[Protecting Data, Protecting Resident*s](https://sunlightfoundation.com/2017/02/10/protecting-data-protecting-residents/). 

@@ -1,9 +1,12 @@
 - name: Hunter Owens
-  pic:
+  pic: hunter.jpg
   twitter: hunter_owens
+  bio: "Hunter's bio"
 - name: Juan Lopez
-  pic: 
+  pic: juan.jpg
   twitter: juan4prez
+  bio: "Juan's bio"
 - name: Vyki Englert
-  pic:
+  pic: vyki.jpg
   twitter: vyki_e
+  bio: "Vyki's bio"
