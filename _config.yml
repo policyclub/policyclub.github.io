@@ -20,6 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   pressing challenges.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://policyclub.io" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: UA-41481129-6
 
 email: juan@compiler.la
 twitter: "https://twitter.com/policy_club"
