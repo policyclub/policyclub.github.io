@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% include head.html %}
 <article>
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
@@ -16,5 +17,5 @@ layout: default
   <div>
     {{ content }}
   </div>
-  {% include footer.html %}
 </article>
+{% include footer.html %}
