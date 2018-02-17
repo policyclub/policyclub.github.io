@@ -1,0 +1,17 @@
+---
+
+layout: page
+title: Press
+
+---
+
+<h2>{{ page.title }}</h2>
+
+<ul>
+{% for mention in site.data.press %}
+	{% if mention.url %}
+	{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+		<li><a href="{{ press.url }}">{{ mention.title }}</a> | {{ mention.name }} | {{ mention.date | date: date_format }}</li>
+	{% endif %}
+{% endfor %}
+</ul>
